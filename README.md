@@ -153,3 +153,14 @@ npm run test:coverage
 
 
 
+## Posibles mejoras a futuro
+
+**Mejoras de UX/UI** : Desde el lado de la UI, se podrian agregar algunas animaciones skeleton loaders, para cargas mas elegantes ademas de un modo oscuro.
+
+
+**Mejoras de funcionalidad** : Me gustaria agregarle filtros mas avanzados capaz por fecha destino o estado de reserva, ademas tambien se podria agregar un listado de favoritos.
+
+**Mejoras técnicas**:  Se podria haber agregado un localStorage para la persistencia de datos. Además de un mejor manejo de errores con Error Boundaries.
+
+
+
