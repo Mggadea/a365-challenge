@@ -2,7 +2,7 @@ import React, { type ReactElement } from 'react';
 import { render, type RenderOptions } from '@testing-library/react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 
-// Create a fresh QueryClient for each test
+
 const createTestQueryClient = () =>
   new QueryClient({
     defaultOptions: {
